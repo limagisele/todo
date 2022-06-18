@@ -34,6 +34,9 @@ ul li {
 ul li:nth-child(odd) {
     background-color: #f9f9f9;
 }
+ul li:hover {
+  background: #ddd;
+}
 ul li.checked {
   background: #888;
   color: #fff;
